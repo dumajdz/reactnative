@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "LoginForm",
-    "slug": "LoginForm",
+    "name": "AppNhahang",
+    "slug": "AppNhahang",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
